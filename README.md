@@ -1,2 +1,3 @@
 # router-loader-278870
-WIP module
+
+Quick prototype for an idea.
